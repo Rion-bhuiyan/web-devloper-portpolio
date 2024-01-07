@@ -120,6 +120,21 @@ main{
 .about-info{
     text-align: center;
 }
+/*skill related style */
 #what-i-do-descreption{
     padding: 30px 152px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding:30px;
+    
+}
+.skill-decreption{
+    color: color #757575;
+}
+main section{
+    margin top: 130px;
 }
